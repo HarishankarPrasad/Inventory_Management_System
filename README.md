@@ -11,8 +11,6 @@ This is a simple web application built with Spring Boot for managing products in
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
